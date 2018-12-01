@@ -1,0 +1,52 @@
+{
+	"profile":{
+		"img":"image.jpg",
+		"name":"saisanjuna",
+		"rollno":"16NN1A1216",
+		"institute":"vignan's nirula"
+	},
+	"career":{
+		"info":"to secure a challenging position in reputable organaisation"
+	},
+	"education":[
+	  {
+		"degree":"btech",
+		"institute":"vignan's nirula",
+		"yop":"2020"
+	  },
+	  {
+	  	"degree":"inter",
+		"institute":"sri chaitanya",
+		"yop":"2016"
+	  },
+	  {	"degree":"ssc",
+		"institute":"sri chaitanya",
+		"yop":"2020"
+	  }
+	],
+	"languages":[
+		{
+			"languages":"telugu"
+		},
+		{
+			"languages":"hindi"
+		},
+		{
+			"languages":"english"
+		}
+	],
+	"skills":[
+		{
+			"title":"platform",
+			"content":"windows.linux"
+		},
+		{
+			"title":"platform",
+			"content":"c,c++,java"
+		},
+		{
+			"title":"database",
+			"content":"mysql"
+		}
+	]
+}
